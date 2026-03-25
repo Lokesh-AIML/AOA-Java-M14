@@ -1,6 +1,6 @@
 # EX 4A Kadane's Algorithm - Dynamic Programming
 
-## DATE: 10-10-2025
+## DATE: 
 
 ## AIM:
 
@@ -32,8 +32,8 @@ The buildings either generate or consume energy. Since the grid is circular, the
 ```java
 /*
 Kadane's Algorithm
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: LOKESHWARAN S
+Register Number: 212224240080
 */
 
 import java.util.*;

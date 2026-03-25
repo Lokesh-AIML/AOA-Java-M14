@@ -1,6 +1,6 @@
 # EX 4E Longest Increasing Subsequence – Dynamic Programming
 
-## DATE: 27-10-2025
+## DATE: 
 
 ## AIM:
 
@@ -27,8 +27,8 @@ To write a Java program to compute the length of the **Longest Increasing Subseq
 ```java
 /*
 Program to implement Reverse a String
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: LOKESHWARAN S
+Register Number: 212224240080
 */
 
 import java.util.*;

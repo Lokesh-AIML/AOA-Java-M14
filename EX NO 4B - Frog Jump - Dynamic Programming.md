@@ -1,6 +1,6 @@
 # EX 4B Frog Jump - Dynamic Programming
 
-## DATE: 16-10-2025
+## DATE: 
 
 ## AIM:
 
@@ -28,8 +28,8 @@ The solution must be implemented using **Dynamic Programming**.
 ```java
 /*
 Frog Jump
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: LOKESHWARAN S
+Register Number: 212224240080
 */
 
 import java.util.Scanner;

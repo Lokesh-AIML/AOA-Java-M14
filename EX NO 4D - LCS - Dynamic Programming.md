@@ -1,6 +1,6 @@
 # EX 4D Longest Common SubSequence - Dynamic Programming
 
-## DATE: 23-10-2025
+## DATE: 
 
 ## AIM:
 
@@ -28,8 +28,8 @@ To write a Java program to find the length of the **Longest Common Subsequence (
 ```java
 /*
 Program to implement Longest Common SubSequence
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: LOKESHWARAN S
+Register Number: 212224240080
 */
 
 import java.util.Scanner;
